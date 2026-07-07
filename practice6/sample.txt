@@ -1,0 +1,4 @@
+Line 1: Welcome to Python file handling.
+Line 2: This is a sample text file.
+Line 3: This line was appended later.
+Line 4: Verification complete.
